@@ -1,0 +1,23 @@
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    color: rgb(51, 51, 54);
+  }
+  body {
+    font-family: Helvetica;
+    background-color: #F8F8FF;
+   
+  }
+  ul {
+
+
+    background: #3399ff;
+    padding: 20px;
+  }
+  ul{
+      float: left;
+      border: 3px solid black;
+    
+   
+  }
+  
